@@ -1,2 +1,3 @@
-# react-admin-dashboard-leave
-HRHR react-admin-dashboard-leave
+# React Admin Dashboard
+
+Build a COMPLETE React Admin Dashboard App | React, Material UI.
