@@ -106,12 +106,11 @@ const Request = () => {
   );
 
   return (
-    <Box m="20px">
+    <Box>
       <Header title="Leave Request" />
       <Box
         m="40px 0 0 0"
         height="75vh"
-        p="20px"
         backgroundColor="#1e1e1e"
         borderRadius="6px"
         sx={{
@@ -163,6 +162,9 @@ const Request = () => {
           ".css-my4wps-MuiButtonBase-root-MuiButton-root:hover": {
             backgroundColor: "#2b2881",
           },
+          // ".css-zwiamn": {
+          //   m: 0,
+          // },
         }}
       >
         <DataGrid checkboxSelection rows={rows} columns={columns} />
